@@ -12,4 +12,5 @@
 ### Github活跃度
 
 
-[![](https://activity-graph.herokuapp.com/graph?username=Gingesmallfish&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)]
+[![](https://activity-graph.herokuapp.com/graph?username=scopor&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Scopor's github stats](https://github-readme-stats.vercel.app/api?username=scopor&show_icons=true&theme=vue)
