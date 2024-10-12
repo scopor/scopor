@@ -9,3 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Github活跃度
+
+
+[![](https://activity-graph.herokuapp.com/graph?username=Gingesmallfish&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)]
