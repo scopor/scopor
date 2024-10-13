@@ -11,6 +11,6 @@
 
 ### Github活跃度
 
+![Most Used Lanugaes](https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact)
 
-[![](https://activity-graph.herokuapp.com/graph?username=scopor&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Scopor's github stats](https://github-readme-stats.vercel.app/api?username=scopor&show_icons=true&theme=vue)
